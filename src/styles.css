@@ -1,0 +1,18 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+#fst {
+  color: blue;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  font-style: italic;
+}
+
+#box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
